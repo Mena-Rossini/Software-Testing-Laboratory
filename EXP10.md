@@ -1,6 +1,6 @@
 # Ex.No: 10  Pytest program for Sum of digits
 
-### DATE:                                                                            
+### DATE: 1/11/2024                                                                          
 ### REGISTER NUMBER : 21222040099
 ### AIM: To write a python program for Fibonacci Series and generate test cases using Pytest. 
 
