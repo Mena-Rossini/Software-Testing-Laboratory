@@ -1,4 +1,4 @@
-# Ex.No: 10  Pytest program for Fibonacci Series
+# Ex.No: 14  Pytest program for Fibonacci Series
 
 ### DATE: 8/11/2024                                                                          
 ### REGISTER NUMBER : 21222040099
@@ -16,7 +16,6 @@ saved and type “pytest test_fib.py” and run it.
 5. Stop the program.
 
 ### Program:
-
 ```
 def fibR(n): 
   if n==1 or n==2: 
@@ -33,19 +32,8 @@ def test_fib_6_equals_8():
 assert fibR(6) == 7 
 ```
 
-
-
-
-
-
-
-
-
-
 ### Output:
 ![image](https://github.com/user-attachments/assets/272d41af-f915-4ad5-b8b2-26ce182f153d)
-
-
 
 ### Result:
 Thus, the python program for Fibonacci Series is tested using pytest and executed and output is verified successfully.
